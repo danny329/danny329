@@ -4,9 +4,7 @@
 I am a __Ployglot Full Stack Developer__ from __Bangalore, India__. \
 Having Experience in __Python, Java, Golang, and Typescript__.\
 I'm currently working on a __Live Chat__ module to enable secondary P2P communication with end users using Websocket on Coversational AI chatbot __[Sirius]__. \
-
-
-
+\
 DM if you're interested 📣.\
 I'm more than happy to collaborate on cool projects. Hit me [@danielpaul329](https://twitter.com/danielpaul329).\
 \
@@ -18,7 +16,7 @@ I'm more than happy to collaborate on cool projects. Hit me [@danielpaul329](htt
 ![Daniels's github stats](https://github-readme-stats.vercel.app/api?username=danny329&show_icons=true&theme=dark)
 
 ### Most used language in Github
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny329&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny329&layout=compact&hide_title=1&card_width=300&theme=dark" alt="Top language used in my repos" />
 
 ### StackOverflow Stats
 <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=12421130&theme=dracula"/>
