@@ -10,7 +10,9 @@ I'm more than happy to collaborate on cool projects. Hit me [@danielpaul329](htt
 #
 
 ![Daniels's github stats](https://github-readme-stats.vercel.app/api?username=danny329&show_icons=true&theme=dark)
-	
+
+<img height="137px" src="https://stackoverflow-card.vercel.app/?userID=12421130&theme=dracula"/>
+
 ![GitHub followers](https://img.shields.io/github/followers/danny329?style=social) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/danielpaul329?style=social) 
 
