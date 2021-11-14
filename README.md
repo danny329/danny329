@@ -1,5 +1,5 @@
 # Daniel Paul
-##### Software Engineer at Data Semantics
+##### Software Engineer
 \
 I am a __Ployglot Full Stack Developer__ from __Bangalore, India__. \
 Having Experience in __Python, Java, Golang, and Typescript__.\
