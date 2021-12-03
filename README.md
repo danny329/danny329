@@ -19,7 +19,7 @@ I'm more than happy to collaborate on cool projects. Hit me [@danielpaul329](htt
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny329&layout=compact&hide_title=1&card_width=300&theme=dark" alt="Top language used in my repos" />
 
 ### StackOverflow Stats
-<a href="https://stackoverflow.com/users/12421130/daniel-paul"><img src="https://stackoverflow.com/users/flair/12421130.png" width="208" height="58" alt="profile for Daniel Paul at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Daniel Paul at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/12421130/daniel-paul"><img src="https://stackoverflow.com/users/flair/12421130.png" width="208" height="58" alt="profile for Daniel Paul at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Daniel Paul at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a><br>
 <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=12421130&theme=dracula"/>
 
 <h3>Things I code with</h3>
